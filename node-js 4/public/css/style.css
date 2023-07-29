@@ -1,0 +1,36 @@
+.header1 {
+    width: 100%;
+    height: 55px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: rgb(206, 199, 199) ;
+    opacity : 0.7;
+}
+.header1 a {
+    display: inline-block ;
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 20px  30px;
+    color:black;
+}
+.pa{
+    margin-top: 70px;
+    margin-left: 20px;
+    font-size: 35px;
+}
+.ma{
+    margin-left: 20px;
+    background-color:rgb(206, 199, 199) ;
+    font-size: 35px;
+}
+.header3{
+    margin-top: 70px;
+    font-size: 35px;
+    margin-left: 20px;
+}
+.info{
+    margin-left: 20px;
+    font-size: 30px;
+    background-color:rgb(206, 199, 199) ;
+}
